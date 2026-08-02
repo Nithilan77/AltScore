@@ -9,7 +9,7 @@
 
 **Making Credit Access Fair for Everyone**
 
-[Live Demo](https://altscore-techcrusaders.streamlit.app) • [Documentation](#documentation) • [Team](#team)
+[Documentation](#documentation) • [Team](#team)
 
 </div>
 
@@ -89,18 +89,6 @@ streamlit run app.py
 ```
 
 App will open at `http://localhost:8501`
-
----
-
-## 📱 Live Demo
-
-**Access the deployed app:** [https://altscore-techcrusaders.streamlit.app](https://altscore-techcrusaders.streamlit.app)
-
-**Features:**
-- 💳 Credit risk prediction with file upload
-- 📊 4-model comparison with visualizations
-- ⚖️ Fairness dashboard with bias audit
-- 💡 Counterfactual explanations generator
 
 ---
 
@@ -282,7 +270,6 @@ This project was developed for educational purposes as part of Zenith Hackathon 
 
 - **GitHub:** [github.com/Nithilan77/AltScore](https://github.com/Nithilan77/AltScore)
 - **Issues:** [Report a bug](https://github.com/Nithilan77/AltScore/issues)
-- **Demo:** [Live Application](https://altscore-techcrusaders.streamlit.app)
 
 ---
 
